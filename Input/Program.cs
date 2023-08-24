@@ -7,6 +7,8 @@
             int num1;
             num1 = int.Parse(Console.ReadLine());
             Console.WriteLine($"square of {num1} is {num1*num1}");
+            Console.WriteLine($"double {num1} is {num1*2}");
+            Console.ReadLine();
         }
     }
 }

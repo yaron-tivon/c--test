@@ -12,3 +12,4 @@ C:\Users\user\source\repos\yaron-tivon\c--test\Input\obj\Debug\net6.0\refint\Inp
 C:\Users\user\source\repos\yaron-tivon\c--test\Input\obj\Debug\net6.0\Input.pdb
 C:\Users\user\source\repos\yaron-tivon\c--test\Input\obj\Debug\net6.0\Input.genruntimeconfig.cache
 C:\Users\user\source\repos\yaron-tivon\c--test\Input\obj\Debug\net6.0\ref\Input.dll
+C:\Users\user\Source\Repos\yaron-tivon\c--test\Input\obj\Debug\net6.0\Input.csproj.AssemblyReference.cache
