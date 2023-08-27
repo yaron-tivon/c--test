@@ -1,0 +1,14 @@
+D:\Yaron\git\c-\input-outputs\ReadChar\bin\Debug\net6.0\ReadChar.exe
+D:\Yaron\git\c-\input-outputs\ReadChar\bin\Debug\net6.0\ReadChar.deps.json
+D:\Yaron\git\c-\input-outputs\ReadChar\bin\Debug\net6.0\ReadChar.runtimeconfig.json
+D:\Yaron\git\c-\input-outputs\ReadChar\bin\Debug\net6.0\ReadChar.dll
+D:\Yaron\git\c-\input-outputs\ReadChar\bin\Debug\net6.0\ReadChar.pdb
+D:\Yaron\git\c-\input-outputs\ReadChar\obj\Debug\net6.0\ReadChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yaron\git\c-\input-outputs\ReadChar\obj\Debug\net6.0\ReadChar.AssemblyInfoInputs.cache
+D:\Yaron\git\c-\input-outputs\ReadChar\obj\Debug\net6.0\ReadChar.AssemblyInfo.cs
+D:\Yaron\git\c-\input-outputs\ReadChar\obj\Debug\net6.0\ReadChar.csproj.CoreCompileInputs.cache
+D:\Yaron\git\c-\input-outputs\ReadChar\obj\Debug\net6.0\ReadChar.dll
+D:\Yaron\git\c-\input-outputs\ReadChar\obj\Debug\net6.0\refint\ReadChar.dll
+D:\Yaron\git\c-\input-outputs\ReadChar\obj\Debug\net6.0\ReadChar.pdb
+D:\Yaron\git\c-\input-outputs\ReadChar\obj\Debug\net6.0\ReadChar.genruntimeconfig.cache
+D:\Yaron\git\c-\input-outputs\ReadChar\obj\Debug\net6.0\ref\ReadChar.dll
